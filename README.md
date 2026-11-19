@@ -1,4 +1,4 @@
-# I HATE AI SLOP
+# NO MORE AI SLOP
 
 Reusable instructions for projects that need clear English, maintainable Python, consistent document formatting, and well-designed learning materials and websites.
 
