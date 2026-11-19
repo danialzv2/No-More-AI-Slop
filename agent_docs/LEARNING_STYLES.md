@@ -22,15 +22,16 @@ Use this guide with the shared writing rules in [AGENTS.md](../AGENTS.md). Follo
 
 - Use white (`#FFFFFF`) as the slide background, deep navy (`#00203E`) for titles and body text, and gold (`#FFBF00`) as the main accent. Use gold to highlight an important value, chart series, or part of a diagram. Pair gold fills with navy text for contrast.
 - Use Poppins for all slide text, including titles, body text, captions, footnotes, tables, and chart and diagram labels. Set the font in both the theme and the individual elements that have their own font settings. Use weight and size to create a clear hierarchy.
-- Keep margins and alignment consistent across the deck. Vary the layout according to what each slide needs to explain.
+- Keep margins, alignment, and type hierarchy consistent across the deck. Use these shared rules to tie together different slide layouts.
 
 ### Layout and figures
 
-- Give each slide one main idea and a clear focal point. Use a large chart for a result, a labelled diagram for a process, a prominent figure for a key metric, or an aligned comparison for two options.
+- Choose a composition for each slide based on what the audience needs to see first. Try a photo beside an opening question, a prominent number beside a chart, a diagram for a process, or two aligned columns for a comparison. Vary the balance and scale where it helps the story.
+- Give each slide one main idea and a clear focal point. Use tables where the audience needs to compare exact entries or look up values. Turn a sequence into a diagram when the order or connections matter.
 - Give the main figure room to read from a distance. Place short explanations and annotations next to the evidence they describe. Use white space to make the reading order clear.
-- Use figures on content slides wherever they help the audience understand a relationship, scale, sequence, or comparison. Use relevant photos for context. Keep charts, tables, and diagrams editable when the format supports it.
+- Use figures on content slides wherever they help the audience understand a relationship, scale, sequence, or comparison. A relevant photograph, an annotated example, or a purposeful crop can set the scene. Credit sourced visuals and keep charts, tables, and diagrams editable when the format supports it.
 - Label figures with the units, categories, and sources the reader needs. Distinguish project targets, plans, and observed results. Use direct labels or other cues so colour alone does not carry meaning.
-- Skip stock taglines, repeated cards, decorative badges, and generic imagery. Use direct titles that name the topic or state a takeaway supported by the evidence.
+- Write titles and captions that name the topic, explain a decision, or state a finding supported by evidence. Cut stock taglines, filler labels, repeated cards, decorative badges, generic imagery, and claims the analysis has yet to establish.
 
 ### Compact decks
 
@@ -41,3 +42,4 @@ Use this guide with the shared writing rules in [AGENTS.md](../AGENTS.md). Follo
 
 - Open the exported deck and review each slide at presentation size. Check that Poppins is used throughout, the theme is consistent, and text, labels, and figures fit without clipping or overlap.
 - Check that figures match the underlying evidence and that a compact deck has exactly one slide per content section.
+- Review the slides together at thumbnail size. Check that each slide has a clear focal point and that repeated layouts serve a purpose.
